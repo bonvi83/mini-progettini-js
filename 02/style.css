@@ -9,7 +9,10 @@ body {
 div {
     width: 150px;
     height: 80px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
     background-color: rgb(26, 28, 21);
-    text-align: center;
     color: red;
+    font-size: 40px;
 }
