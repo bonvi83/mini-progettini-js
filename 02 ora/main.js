@@ -7,7 +7,7 @@ function setOra() {
     let minuti = data.getMinutes();
     let secondi = data.getSeconds();
 
-    // creo un piccolo controllo per far vedere SEMPRE 2 minuti nel mio orologio
+    // creo un piccolo controllo per far vedere SEMPRE 2 numeri nel mio orologio
     if (ore < 10){
         ore = "0" + ore;
     };

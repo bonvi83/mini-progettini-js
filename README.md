@@ -7,3 +7,6 @@ Creo un bottone che al click cambia lo sfondo della pagina html e stampa in cons
 
 **Esercizio 02:**
 Creo un "semplice" orologio digitale.
+
+**Esercizio 03:**
+Creo un "semplice" cronometro digitale.
