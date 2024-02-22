@@ -7,9 +7,9 @@ let ore = 0, minuti = 0, secondi = 0, centesimi = 0;
 function start() {
     if (stop == true) {
         stop = false;
-        document.getElementById("start");
+        // document.getElementById("start");
     } else {
         stop = true;
-        document.getElementById("stop");
+        // document.getElementById("stop");
     }
 }
