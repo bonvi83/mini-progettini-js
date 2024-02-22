@@ -23,5 +23,17 @@ body {
 }
 
 .pulsanti {
-    display: block;
+    /* display: block; */
 }
+
+button {
+    width: 80px;
+    height: 20px;
+}
+
+/* .comandi {
+    background-color: red;
+    margin: 3px;
+    font-size: 20px;
+    cursor: pointer;
+} */
